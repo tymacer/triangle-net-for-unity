@@ -1,0 +1,12 @@
+{
+  "name": "com.yourname.trianglenet",
+  "version": "1.0.0",
+  "displayName": "Triangle.NET for Unity",
+  "description": "A Unity package for Triangle.NET.",
+  "unity": "2019.1",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com",
+    "url": "https://yourwebsite.com"
+  }
+}
